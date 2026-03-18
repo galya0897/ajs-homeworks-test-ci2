@@ -1,4 +1,4 @@
-import colorIndication from './app';
+import colorIndication from '../app';
 
 test.each([
   [60, 'healthy'],
